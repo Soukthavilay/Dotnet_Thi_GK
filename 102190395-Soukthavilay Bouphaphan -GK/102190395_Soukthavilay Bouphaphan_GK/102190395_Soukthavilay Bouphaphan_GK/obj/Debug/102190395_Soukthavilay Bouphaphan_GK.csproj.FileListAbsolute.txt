@@ -1,0 +1,11 @@
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\bin\Debug\102190395_Soukthavilay Bouphaphan_GK.exe.config
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\bin\Debug\102190395_Soukthavilay Bouphaphan_GK.exe
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\bin\Debug\102190395_Soukthavilay Bouphaphan_GK.pdb
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\102190395_Soukthavilay Bouphaphan_GK.csprojAssemblyReference.cache
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\_102190395_Soukthavilay_Bouphaphan_GK.Properties.Resources.resources
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\102190395_Soukthavilay Bouphaphan_GK.csproj.GenerateResource.cache
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\102190395_Soukthavilay Bouphaphan_GK.csproj.CoreCompileInputs.cache
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\102190395_Soukthavilay Bouphaphan_GK.exe
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\102190395_Soukthavilay Bouphaphan_GK.pdb
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\_102190395_Soukthavilay_Bouphaphan_GK.Form1.resources
+F:\102190395-Soukthavilay Bouphaphan -GK\102190395_Soukthavilay Bouphaphan_GK\102190395_Soukthavilay Bouphaphan_GK\obj\Debug\_102190395_Soukthavilay_Bouphaphan_GK.Form2.resources
